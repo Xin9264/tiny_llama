@@ -1,0 +1,15 @@
+# 忽略所有PNG图像文件
+*.png
+
+# Python相关文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 虚拟环境
+venv/
+env/
+ENV/ 
